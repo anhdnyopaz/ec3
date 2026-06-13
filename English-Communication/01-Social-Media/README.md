@@ -25,6 +25,7 @@ Mục tiêu: nói được **1 phút** về mạng xã hội, biết nêu **lợ
 | 4 | [`04-Ngu-phap.md`](04-Ngu-phap.md) | **Clauses of reason** — bảng phân biệt + lỗi sai hay gặp |
 | 5 | [`05-Bai-tap.md`](05-Bai-tap.md) | Bài tập (từ vựng, ngữ pháp, sửa lỗi) + đáp án |
 | 6 | [`06-Luyen-noi.md`](06-Luyen-noi.md) | Câu hỏi luyện nói + bài nói mẫu 1 phút |
+| 7 | [`07-Bai-luan-mau.md`](07-Bai-luan-mau.md) | 3 bài luận mẫu + khung viết + mẹo viết B1 |
 
 ---
 
