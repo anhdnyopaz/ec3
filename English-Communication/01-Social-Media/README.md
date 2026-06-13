@@ -27,6 +27,7 @@ Mục tiêu: nói được **1 phút** về mạng xã hội, biết nêu **lợ
 | 6 | [`06-Luyen-noi.md`](06-Luyen-noi.md) | Câu hỏi luyện nói + bài nói mẫu 1 phút |
 | 7 | [`07-Bai-luan-mau.md`](07-Bai-luan-mau.md) | 3 bài luận mẫu + khung viết + mẹo viết B1 |
 | 8 | [`08-Doc-Stress-Chunking.md`](08-Doc-Stress-Chunking.md) | Luyện đọc: nhấn trọng âm câu (stress) & ngắt cụm (chunking) |
+| 9 | [`09-Huong-dan-viet-nguoi-dung-MXH-tich-cuc.md`](09-Huong-dan-viet-nguoi-dung-MXH-tich-cuc.md) | Hướng dẫn viết essay **kể về người/nhóm dùng MXH tích cực** (học tập, gây quỹ, dự án sáng tạo) + 3 bài mẫu |
 
 ---
 
