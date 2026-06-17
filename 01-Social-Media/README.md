@@ -29,6 +29,7 @@ Mục tiêu: nói được **1 phút** về mạng xã hội, biết nêu **lợ
 | 8 | [`08-Doc-Stress-Chunking.md`](08-Doc-Stress-Chunking.md) | Luyện đọc: nhấn trọng âm câu (stress) & ngắt cụm (chunking) |
 | 9 | [`09-Huong-dan-viet-nguoi-dung-MXH-tich-cuc.md`](09-Huong-dan-viet-nguoi-dung-MXH-tich-cuc.md) | Hướng dẫn viết essay **kể về người/nhóm dùng MXH tích cực** (học tập, gây quỹ, dự án sáng tạo) + 3 bài mẫu |
 | 10 | [`10-Huong-dan-quay-video-noi-2-phut.md`](10-Huong-dan-quay-video-noi-2-phut.md) | Hướng dẫn **quay video nói 2 phút** *How you use social media* + kịch bản mẫu + mẹo quay/nộp bài |
+| 11 | [`11-Huong-dan-viet-bai-tranh-luan-MXH.md`](11-Huong-dan-viet-bai-tranh-luan-MXH.md) | Hướng dẫn viết **bài tranh luận** *mặt tích cực & tiêu cực + nên dùng MXH thế nào* + từ vựng 2 mặt + từ nối tranh luận + 2 bài mẫu |
 
 ---
 
