@@ -3,7 +3,7 @@
 Chủ điểm thứ hai trong bộ giáo trình tiếng Anh giao tiếp **A2–B1** (A2 ≈ 80%, B1 ≈ 20%).
 Mục tiêu: **viết luận, thuyết trình và phản biện** về giải trí của giới trẻ — cân được cả **mặt tích cực** và **mặt tiêu cực**, có **quan điểm rõ ràng**.
 
-> 📌 **Phạm vi hiện tại:** chủ điểm này gồm **3 file: Từ vựng + Ngữ pháp + Thuyết trình mẫu 2 phút**, thiết kế để phục vụ trực tiếp cho viết luận / thuyết trình / phản biện. Các file khác (mẫu câu, hội thoại, bài tập, bài luận mẫu…) sẽ bổ sung sau khi bạn yêu cầu.
+> 📌 **Phạm vi hiện tại:** chủ điểm này gồm **4 file: Từ vựng + Ngữ pháp + Thuyết trình mẫu 2 phút + Các loại hình giải trí (trong nhà & ngoài trời)**, thiết kế để phục vụ trực tiếp cho viết luận / thuyết trình / phản biện. Các file khác (mẫu câu, hội thoại, bài tập, bài luận mẫu…) sẽ bổ sung sau khi bạn yêu cầu.
 
 ---
 
@@ -25,6 +25,7 @@ Mục tiêu: **viết luận, thuyết trình và phản biện** về giải tr
 | 1 | [`01-Tu-vung.md`](01-Tu-vung.md) | Từ vựng **2 mặt** (tích cực/tiêu cực) + collocations + từ dùng cho **thuyết trình & phản biện** + 6 khía cạnh để tranh luận |
 | 2 | [`02-Ngu-phap.md`](02-Ngu-phap.md) | **Contrast & Concession** — bảng phân biệt + ghép với "lý do" + template phản biện + lỗi sai hay gặp |
 | 3 | [`03-Thuyet-trinh-mau-2-phut.md`](03-Thuyet-trinh-mau-2-phut.md) | **6 bài thuyết trình mẫu ~2 phút** (3 tích cực + 3 tiêu cực) + phân bổ thời gian + khung điền + mẹo nói + checklist |
+| 4 | [`04-Cac-loai-hinh-giai-tri.md`](04-Cac-loai-hinh-giai-tri.md) | **Các loại hình giải trí** trong nhà & ngoài trời (online/offline, một mình/nhóm) + xu hướng + mẫu câu mô tả/so sánh + đoạn văn mẫu |
 
 ---
 

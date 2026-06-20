@@ -31,7 +31,7 @@ Mỗi **chủ điểm (topic)** nằm trong một **sub-folder riêng**, học x
 > - **Grammar:** Contrast & Concession — *although, even though, however, despite/in spite of, while/whereas*
 > - **Theme:** Is entertainment good or bad for young people? (giải trí ảnh hưởng giới trẻ)
 > - **Kỹ năng đích:** ✍️ Viết luận · 🎤 Thuyết trình · ⚖️ Phản biện
-> - **Phạm vi hiện tại:** gồm **Từ vựng + Ngữ pháp + 6 bài thuyết trình mẫu 2 phút** (các file khác bổ sung sau khi bạn yêu cầu).
+> - **Phạm vi hiện tại:** gồm **Từ vựng + Ngữ pháp + 6 bài thuyết trình mẫu 2 phút + Các loại hình giải trí (trong nhà & ngoài trời)** (các file khác bổ sung sau khi bạn yêu cầu).
 
 | 03 | Daily Routines (Thói quen hằng ngày) | `03-Daily-Routines/` | ⏳ Sắp tới |
 | 04 | Food & Eating Out (Ăn uống) | `04-Food/` | ⏳ |
