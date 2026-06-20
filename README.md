@@ -24,17 +24,26 @@ Mỗi **chủ điểm (topic)** nằm trong một **sub-folder riêng**, học x
 > - **Grammar:** Clauses of reason — *because, since, as, due to, because of*
 > - **Theme:** Exploring how social media affects young people (ảnh hưởng đến giới trẻ)
 
-| 02 | Daily Routines (Thói quen hằng ngày) | `02-Daily-Routines/` | ⏳ Sắp tới |
-| 03 | Food & Eating Out (Ăn uống) | `03-Food/` | ⏳ |
-| 04 | Travel & Holidays (Du lịch) | `04-Travel/` | ⏳ |
-| 05 | Work & Study (Công việc & học tập) | `05-Work-Study/` | ⏳ |
-| 06 | Health & Lifestyle (Sức khỏe) | `06-Health/` | ⏳ |
-| 07 | Shopping & Money (Mua sắm & tiền bạc) | `07-Shopping/` | ⏳ |
-| 08 | Technology (Công nghệ) | `08-Technology/` | ⏳ |
-| 09 | Family & Relationships (Gia đình) | `09-Family/` | ⏳ |
-| 10 | Hobbies & Free Time (Sở thích) | `10-Hobbies/` | ⏳ |
+| 02 | Entertainment (Giải trí với giới trẻ) | `02-Entertainment/` | ✅ Đã tạo |
 
-*(Bạn cứ học xong topic 01, nhắn tôi tạo tiếp topic 02.)*
+> **🎯 Trọng tâm Topic 02:**
+> - **Vocabulary:** Entertainment for young people — cả **tích cực & tiêu cực** + từ cho thuyết trình/phản biện
+> - **Grammar:** Contrast & Concession — *although, even though, however, despite/in spite of, while/whereas*
+> - **Theme:** Is entertainment good or bad for young people? (giải trí ảnh hưởng giới trẻ)
+> - **Kỹ năng đích:** ✍️ Viết luận · 🎤 Thuyết trình · ⚖️ Phản biện
+> - **Phạm vi hiện tại:** mới gồm **Từ vựng + Ngữ pháp** (các file khác bổ sung sau khi bạn yêu cầu).
+
+| 03 | Daily Routines (Thói quen hằng ngày) | `03-Daily-Routines/` | ⏳ Sắp tới |
+| 04 | Food & Eating Out (Ăn uống) | `04-Food/` | ⏳ |
+| 05 | Travel & Holidays (Du lịch) | `05-Travel/` | ⏳ |
+| 06 | Work & Study (Công việc & học tập) | `06-Work-Study/` | ⏳ |
+| 07 | Health & Lifestyle (Sức khỏe) | `07-Health/` | ⏳ |
+| 08 | Shopping & Money (Mua sắm & tiền bạc) | `08-Shopping/` | ⏳ |
+| 09 | Technology (Công nghệ) | `09-Technology/` | ⏳ |
+| 10 | Family & Relationships (Gia đình) | `10-Family/` | ⏳ |
+| 11 | Hobbies & Free Time (Sở thích) | `11-Hobbies/` | ⏳ |
+
+*(Bạn cứ học xong topic 02, nhắn tôi tạo tiếp topic 03.)*
 
 ---
 
