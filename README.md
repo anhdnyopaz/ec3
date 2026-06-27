@@ -40,7 +40,7 @@ Mỗi **chủ điểm (topic)** nằm trong một **sub-folder riêng**, học x
 > - **Grammar:** Modal verbs — *can, could, will, may, might, should* (khả năng, dự đoán, lời khuyên)
 > - **Theme:** Is AI good or bad for work and study? (AI ảnh hưởng công việc & học tập)
 > - **Kỹ năng đích:** ✍️ Viết luận · 🎤 Thuyết trình · ⚖️ Phản biện
-> - **Phạm vi hiện tại:** gồm **Từ vựng + Ngữ pháp + 3 bài luận mẫu + 4 bài thuyết trình 2 phút** (các file khác bổ sung sau khi bạn yêu cầu).
+> - **Phạm vi hiện tại:** gồm **Từ vựng + Ngữ pháp + 3 bài luận mẫu + 4 bài thuyết trình 2 phút + Hướng dẫn tranh luận** (các file khác bổ sung sau khi bạn yêu cầu).
 
 | 04 | Daily Routines (Thói quen hằng ngày) | `04-Daily-Routines/` | ⏳ Sắp tới |
 | 05 | Food & Eating Out (Ăn uống) | `05-Food/` | ⏳ |
