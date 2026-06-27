@@ -27,6 +27,7 @@ Mục tiêu: **viết luận, thuyết trình và phản biện** về AI trong 
 | 3 | [`03-Bai-luan-mau.md`](03-Bai-luan-mau.md) | **3 bài luận mẫu** (lợi ích / 2 mặt / nêu ý kiến) + khung viết + mẹo B1 |
 | 4 | [`04-Thuyet-trinh-mau-2-phut.md`](04-Thuyet-trinh-mau-2-phut.md) | **4 bài thuyết trình ~2 phút** (2 tích cực + 2 lo ngại, đủ workplace & education) + khung điền + mẹo nói + checklist |
 | 5 | [`05-Huong-dan-tranh-luan.md`](05-Huong-dan-tranh-luan.md) | **Hướng dẫn tranh luận** — kho **cụm từ lập luận** (theo chức năng) + **cách dàn ý P‑E‑E‑L** + khung lắp ghép + 2 bài mẫu (FOR/AGAINST) |
+| 6 | [`06-Bai-luan-bao-ve-quan-diem.md`](06-Bai-luan-bao-ve-quan-diem.md) | **6 bài luận bảo vệ quan điểm** — mỗi bài bảo vệ 1 lợi ích của AI ở văn phòng (*How can AI support in the office?*) + khung chung |
 
 ---
 
