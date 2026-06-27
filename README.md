@@ -33,17 +33,26 @@ Mỗi **chủ điểm (topic)** nằm trong một **sub-folder riêng**, học x
 > - **Kỹ năng đích:** ✍️ Viết luận · 🎤 Thuyết trình · ⚖️ Phản biện
 > - **Phạm vi hiện tại:** gồm **Từ vựng + Ngữ pháp + 6 bài thuyết trình mẫu 2 phút + Các loại hình giải trí (trong nhà & ngoài trời)** (các file khác bổ sung sau khi bạn yêu cầu).
 
-| 03 | Daily Routines (Thói quen hằng ngày) | `03-Daily-Routines/` | ⏳ Sắp tới |
-| 04 | Food & Eating Out (Ăn uống) | `04-Food/` | ⏳ |
-| 05 | Travel & Holidays (Du lịch) | `05-Travel/` | ⏳ |
-| 06 | Work & Study (Công việc & học tập) | `06-Work-Study/` | ⏳ |
-| 07 | Health & Lifestyle (Sức khỏe) | `07-Health/` | ⏳ |
-| 08 | Shopping & Money (Mua sắm & tiền bạc) | `08-Shopping/` | ⏳ |
-| 09 | Technology (Công nghệ) | `09-Technology/` | ⏳ |
-| 10 | Family & Relationships (Gia đình) | `10-Family/` | ⏳ |
-| 11 | Hobbies & Free Time (Sở thích) | `11-Hobbies/` | ⏳ |
+| 03 | AI in the Workplace & Education (AI trong Công việc & Giáo dục) | `03-AI-Workplace-Education/` | ✅ Đã tạo |
 
-*(Bạn cứ học xong topic 02, nhắn tôi tạo tiếp topic 03.)*
+> **🎯 Trọng tâm Topic 03** *(tương ứng Unit 8)*:
+> - **Vocabulary:** AI trong công việc & giáo dục — **lợi ích & lo ngại** (gồm 12 cụm lõi Unit 8)
+> - **Grammar:** Modal verbs — *can, could, will, may, might, should* (khả năng, dự đoán, lời khuyên)
+> - **Theme:** Is AI good or bad for work and study? (AI ảnh hưởng công việc & học tập)
+> - **Kỹ năng đích:** ✍️ Viết luận · 🎤 Thuyết trình · ⚖️ Phản biện
+> - **Phạm vi hiện tại:** gồm **Từ vựng + Ngữ pháp + 3 bài luận mẫu + 4 bài thuyết trình 2 phút** (các file khác bổ sung sau khi bạn yêu cầu).
+
+| 04 | Daily Routines (Thói quen hằng ngày) | `04-Daily-Routines/` | ⏳ Sắp tới |
+| 05 | Food & Eating Out (Ăn uống) | `05-Food/` | ⏳ |
+| 06 | Travel & Holidays (Du lịch) | `06-Travel/` | ⏳ |
+| 07 | Work & Study (Công việc & học tập) | `07-Work-Study/` | ⏳ |
+| 08 | Health & Lifestyle (Sức khỏe) | `08-Health/` | ⏳ |
+| 09 | Shopping & Money (Mua sắm & tiền bạc) | `09-Shopping/` | ⏳ |
+| 10 | Technology (Công nghệ) | `10-Technology/` | ⏳ |
+| 11 | Family & Relationships (Gia đình) | `11-Family/` | ⏳ |
+| 12 | Hobbies & Free Time (Sở thích) | `12-Hobbies/` | ⏳ |
+
+*(Bạn cứ học xong topic 03, nhắn tôi tạo tiếp topic 04.)*
 
 ---
 
