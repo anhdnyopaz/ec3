@@ -5,3 +5,12 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# Repo này chỉ giữ NỘI DUNG HỌC. Phần mềm + thiết kế phần mềm tách ra (app/ là repo riêng).
+# Bỏ theo dõi: phần mềm, tài liệu thiết kế, demo giao diện.
+/app/
+/software/
+/design-demos/
+
+# CHỈ GIỮ LẠI cấu hình kết nối MCP ở root (để chạy agent soạn giáo trình):
+#   .mcp.json, .mcp.remote.example.json  → KHÔNG ignore.

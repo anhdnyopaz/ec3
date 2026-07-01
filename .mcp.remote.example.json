@@ -1,0 +1,12 @@
+{
+  "_comment": "MCP remote qua HTTP + Bearer token. Tạo token: `app token create --user <email> --scopes content:write,content:read,learner:read`. Đổi URL thành domain thật (Caddy tự cấp HTTPS) và dán token vào header. Bản stdio cục bộ vẫn ở .mcp.json.",
+  "mcpServers": {
+    "english-curriculum": {
+      "type": "http",
+      "url": "https://YOUR_DOMAIN/mcp",
+      "headers": {
+        "Authorization": "Bearer eak_REPLACE_WITH_YOUR_TOKEN"
+      }
+    }
+  }
+}
