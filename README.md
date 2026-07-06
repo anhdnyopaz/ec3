@@ -56,6 +56,18 @@ Mỗi **chủ điểm (topic)** nằm trong một **sub-folder riêng**, học x
 
 ---
 
+## 🏆 Tài liệu Ôn tập & Kiểm tra (Review & Exam)
+
+Khi kết thúc Topic 03, bạn sẽ thực hiện **Progress Test 1** bao quát cả 3 chủ điểm đầu tiên. Hãy sử dụng bộ tài liệu ôn tập cấp tốc tại đây:
+
+📂 **Thư mục Ôn tập:** [Progress-Test-1-Review/](Progress-Test-1-Review/)
+- 📝 **[File 1 – Từ vựng cốt lõi](Progress-Test-1-Review/01-On-tap-Tu-vung.md)**: Tổng hợp bảng từ vựng 3 topic có phiên âm Việt hóa.
+- ⚙️ **[File 2 – Ngữ pháp trọng tâm](Progress-Test-1-Review/02-On-tap-Ngu-phap.md)**: Ôn tập Clauses of Reason, Contrast và Modal Verbs + Bài tập luyện nhanh.
+- 🎤 **[File 3 – Bài mẫu Nói & Viết](Progress-Test-1-Review/03-Mau-Thuyet-Trinh-Va-Viet.md)**: Bài nói 1-2 phút và viết mẫu theo đề cương phân chia theo cấp độ A2 và B1.
+- 📝 **[File 4 – Đề thi thử tổng hợp](Progress-Test-1-Review/04-De-Thi-Thu.md)**: Đề trắc nghiệm & tự luận mô phỏng bài thi thật kèm đáp án chi tiết.
+
+---
+
 ## 🗂️ Cấu trúc mỗi chủ điểm (6 file)
 
 Mỗi sub-folder có 6 file học theo thứ tự:
