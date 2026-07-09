@@ -45,6 +45,7 @@ Mục tiêu: **nói, viết và hội thoại** về các vấn đề trong côn
 | 1 | [`01-Tu-vung.md`](01-Tu-vung.md) | **10 cụm lõi** + danh/động từ công sở + từ vựng **2 mặt** (vấn đề ❌ / giải pháp ✅) + bảng cặp *vấn đề → giải pháp* |
 | 2 | [`02-Ngu-phap.md`](02-Ngu-phap.md) | **Giving advice** (should/ought to/had better/why don't you/how about…) + **First Conditional** (If… , … will/can/should) — bảng chọn nhanh + lỗi sai |
 | 3 | [`03-Bai-mau.md`](03-Bai-mau.md) | **Hội thoại mẫu** (xin lời khuyên) + **đoạn văn mẫu** + **thuyết trình ~2 phút** + khung điền + checklist |
+| 4 | [`04-Thuyet-trinh-IT.md`](04-Thuyet-trinh-IT.md) | 💻 **Vấn đề cụ thể ngành IT** (bug, deadline gấp, legacy code, server sập, công nghệ đổi liên tục, burnout…) + **từ vựng IT** + **2 hội thoại** + **đoạn văn** + **3 bài thuyết trình 2 phút** + khung & checklist |
 
 ---
 
