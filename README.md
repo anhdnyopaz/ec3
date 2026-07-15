@@ -13,6 +13,19 @@ Mỗi **chủ điểm (topic)** nằm trong một **sub-folder riêng**, học x
 
 ---
 
+## 🎤 Module kỹ năng dùng chung: Presentation Skills
+
+Trước (hoặc song song với) các topic, hãy học **module cụm từ & mẫu câu thuyết trình** — dùng lại được cho MỌI chủ đề:
+
+📂 **Thư mục:** [00-Presentation-Skills/](00-Presentation-Skills/)
+- 🗺️ **[File 1 – Cụm từ theo bố cục bài](00-Presentation-Skills/01-Cum-tu-theo-bo-cuc.md)**: Signposting — mở đầu, nêu bố cục, chuyển ý, kết luận (chia mức A2 / B1).
+- 🧩 **[File 2 – Mẫu câu theo chức năng](00-Presentation-Skills/02-Mau-cau-chuc-nang.md)**: Nêu ý kiến, nhấn mạnh, nhượng bộ, lý do–kết quả, số liệu, kể chuyện cá nhân.
+- 🆘 **[File 3 – Xử lý tình huống & Q&A](00-Presentation-Skills/03-Xu-ly-tinh-huong-va-QA.md)**: Câu giờ, quên từ, nói nhầm, trả lời câu hỏi — bộ câu "cứu điểm".
+- ✍️ **[File 4 – Khung bài mẫu & luyện tập](00-Presentation-Skills/04-Khung-bai-mau-va-luyen-tap.md)**: Khung điền-vào-chỗ-trống A2 & B1 + bài mẫu + bài tập có đáp án + checklist.
+- 🎯 **[File 5 – 3 bài thuyết trình mẫu 5 phút](00-Presentation-Skills/05-Thuyet-trinh-mau-5-phut.md)**: AI & sự nghiệp giới trẻ · Giải trí mạo hiểm (ưu/nhược) · Social Media & thương mại — kèm từ vựng và Q&A dự kiến.
+
+---
+
 ## 📚 Lộ trình các chủ điểm (Roadmap)
 
 | # | Chủ điểm (Topic) | Folder | Trạng thái |
