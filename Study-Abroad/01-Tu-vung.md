@@ -167,6 +167,44 @@
 
 ---
 
+## 🔟 TỪ VỰNG MỞ RỘNG – Unit 14: STUDYING (theo sách)
+
+> 📖 Bộ cụm từ chính thống về **lợi ích & thử thách của việc du học** (part of speech: **phr** = *phrase* / cụm từ, học nguyên cụm).
+> IPA lấy theo sách; cột "phiên âm gợi ý" là cách đọc Việt hóa cho dễ.
+
+### ✅ BENEFITS – Lợi ích khi du học
+
+| English | Loại | IPA | Phiên âm gợi ý | Nghĩa |
+|---------|------|-----|----------------|-------|
+| build self-confidence | phr | /bɪld ˌself ˈkɒnfɪdəns/ | bild self-CON-fi-đợns | xây dựng lòng tự tin |
+| explore the world | phr | /ɪkˈsplɔː(r) ðə wɜːld/ | ics-PLO đơ WƠLD | khám phá thế giới |
+| gain a better global awareness | phr | /ɡeɪn ə ˈbetə(r) ˈɡləʊbl əˈweənəs/ | gâyn ơ BE-tơ GLÂU-bồ ơ-WE-nợs | nâng cao nhận thức toàn cầu |
+| enhance language skills | phr | /ɪnˈhɑːns ˈlæŋɡwɪdʒ skɪls/ | in-HÁNS LÉNG-guịj skilz | nâng cao khả năng ngôn ngữ |
+| gain a broader perspective on your field | phr | /ɡeɪn ə ˈbrɔːdə(r) pəˈspektɪv ɒn jɔː(r) fiːld/ | gâyn ơ BRÓ-đơ pơ-SPEC-tịv on yo FILD | có cái nhìn rộng hơn về lĩnh vực của mình |
+| advance your future career | phr | /ədˈvɑːns jɔː(r) ˈfjuːtʃə(r) kəˈrɪə(r)/ | ơd-VANS yo FIU-chơ cơ-RI-ơ | nâng cao sự nghiệp tương lai |
+| broaden your knowledge | phr | /ˈbrɔːdn jɔː(r) ˈnɒlɪdʒ/ | BRÓ-đờn yo NÓ-lịj | mở mang kiến thức |
+| increase your adaptability | phr | /ɪnˈkriːs jɔː(r) əˌdæptəˈbɪləti/ | in-CRÍS yo ơ-đáp-tơ-BI-lơ-ti | tăng khả năng thích nghi |
+
+> 💡 *increase your adaptability* tuy nói về việc **vượt qua khó khăn**, nhưng nó là **kết quả tốt** bạn thu được — nên xếp vào nhóm lợi ích.
+> 💬 *Studying abroad helps you **build self-confidence**, **broaden your knowledge**, and **advance your future career**.*
+
+### ❌ CHALLENGES – Thử thách khi du học
+
+| English | Loại | IPA | Phiên âm gợi ý | Nghĩa |
+|---------|------|-----|----------------|-------|
+| language barrier | phr | /ˈlæŋɡwɪdʒ ˈbæriə(r)/ | LÉNG-guịj BÉ-ri-ơ | rào cản ngôn ngữ |
+| financial pressure | phr | /faɪˈnænʃl ˈpreʃə(r)/ | fai-NÉN-shồ PRE-shơ | áp lực tài chính |
+| homesickness | (n) | /ˈhəʊmsɪknəs/ | HÂUM-sic-nợs | nỗi nhớ nhà |
+| feel alone without local friends or family | phr | /fiːl əˈləʊn wɪðˈaʊt ˈləʊkl frendz ɔː(r) ˈfæməli/ | fil ơ-LÂUN wíð-AUT LÂU-cồ frenz o FÉ-mơ-li | cảm thấy cô đơn khi không có bạn bè & gia đình |
+| academic challenge | phr | /ˌækəˈdemɪk ˈtʃælɪndʒ/ | á-cơ-ĐE-mic CHÉ-lịnj | khó khăn, thách thức trong việc học |
+| culture shock | phr | /ˈkʌltʃə ʃɒk/ | CĂL-chơ SHÓC | cú sốc văn hóa |
+
+> 💬 *At first, students may face **culture shock**, a **language barrier**, and **financial pressure**, but they soon overcome them.*
+
+> ♻️ **Ghép với ngữ pháp Present Perfect:** *I **have** already **built self-confidence** and **broadened my knowledge** since I started studying abroad.*
+
+---
+
 ## 9️⃣ Mẹo phát âm
 
 - **Trọng âm cụm:** nhấn vào từ mang nghĩa chính: *study a**BROAD**, **CUL**ture shock, **LAN**guage **BA**rrier*.

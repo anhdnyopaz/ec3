@@ -68,6 +68,25 @@
 
 ---
 
+## 📊 BONUS – Cụm từ MÔ TẢ BIỂU ĐỒ & SỐ LIỆU (khi thuyết trình có slide/chart)
+
+> Khi bài thuyết trình du học của bạn có **biểu đồ** (ví dụ: số sinh viên đi du học mỗi năm, chi phí, tỷ lệ...), dùng các cụm sau để dẫn dắt khán giả nhìn vào số liệu.
+
+| English | Nghĩa |
+|---------|-------|
+| First, let me quickly explain the graph. | Trước tiên, để tôi giải thích nhanh biểu đồ. |
+| The graph shows our figures. | Biểu đồ cho thấy các số liệu của chúng ta. |
+| Let's now look at the next slide / point. | Bây giờ, hãy xem slide / phần tiếp theo. |
+| I'd like you to focus your attention on… | Tôi muốn các bạn tập trung chú ý vào… |
+| Let's look more closely at… | Hãy nhìn kỹ hơn vào… |
+| What I'd like to point out here is… | Điều tôi muốn chỉ ra ở đây là… |
+| I think you'll be surprised to see… | Tôi nghĩ các bạn sẽ ngạc nhiên khi thấy… |
+| You can see that different colors have been used to indicate… | Các bạn có thể thấy các màu khác nhau được dùng để biểu thị… |
+
+> 💬 **Ví dụ dùng khi có biểu đồ:** *First, let me quickly explain the graph. **The graph shows** the number of Vietnamese students who **have studied** abroad since 2015. **I'd like you to focus your attention on** the big increase after 2020.*
+
+---
+
 ## 🧱 KHUNG THUYẾT TRÌNH của bạn (2 phút)
 
 ```

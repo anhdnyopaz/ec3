@@ -42,14 +42,14 @@ Mục tiêu: **nói, viết và hội thoại** về du học, thành thạo **t
 
 | # | File | Nội dung |
 |---|------|----------|
-| 1 | [`01-Tu-vung.md`](01-Tu-vung.md) | **10 cụm lõi** + danh/động từ du học + từ **2 mặt** (lợi ích ✅ / khó khăn ❌) + bảng cặp + mẹo phát âm |
+| 1 | [`01-Tu-vung.md`](01-Tu-vung.md) | **10 cụm lõi** + danh/động từ du học + từ **2 mặt** (lợi ích ✅ / khó khăn ❌) + **từ vựng Unit 14 – Studying** (benefits & challenges theo sách) + bảng cặp + mẹo phát âm |
 | 2 | [`02-Mau-cau.md`](02-Mau-cau.md) | Mẫu câu: dự định, lý do, lợi ích, khó khăn + **mẫu câu Present Perfect** + khung "5 câu" |
 | 3 | [`03-Hoi-thoai.md`](03-Hoi-thoai.md) | **4 hội thoại mẫu** (dự định · ưu-nhược · kể trải nghiệm · xin lời khuyên) + đóng vai |
 | 4 | [`04-Ngu-phap.md`](04-Ngu-phap.md) | **Present Perfect** — công thức, V3, 4 cách dùng, for/since, ever/never/just/already/yet, so sánh Past Simple + lỗi sai |
 | 5 | [`05-Bai-tap.md`](05-Bai-tap.md) | Bài tập (từ vựng, Present Perfect, sửa lỗi, viết câu) + **đáp án chi tiết** |
 | 6 | [`06-Luyen-noi.md`](06-Luyen-noi.md) | 12 câu hỏi luyện nói + khung trả lời + **bài nói mẫu 1 phút** |
 | 7 | [`07-Bai-luan-mau.md`](07-Bai-luan-mau.md) | **3 bài luận mẫu** (nêu ý kiến · ưu-nhược · kể trải nghiệm) + khung viết + mẹo B1 |
-| 8 | [`08-Thuyet-trinh-mau-2-phut.md`](08-Thuyet-trinh-mau-2-phut.md) | **3 bài thuyết trình 2 phút** + khung điền + mẹo trình bày + checklist |
+| 8 | [`08-Thuyet-trinh-mau-2-phut.md`](08-Thuyet-trinh-mau-2-phut.md) | **3 bài thuyết trình 2 phút** + **cụm mô tả biểu đồ/số liệu** + khung điền + mẹo trình bày + checklist |
 
 ---
 
