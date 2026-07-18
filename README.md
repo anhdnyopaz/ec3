@@ -69,6 +69,24 @@ Trước (hoặc song song với) các topic, hãy học **module cụm từ & m
 
 ---
 
+## ➕ Chủ điểm bổ sung (Extra topics)
+
+Ngoài lộ trình đánh số, còn có các chủ điểm chuyên đề học độc lập bất cứ lúc nào:
+
+| Chủ điểm | Folder | Grammar trọng tâm | Trạng thái |
+|----------|--------|-------------------|-----------|
+| 💼 Career Issues (Vấn đề trong công việc) | [`Career-Issues/`](Career-Issues/) | Giving Advice + First Conditional | ✅ Đã tạo |
+| 🎓 Study Abroad (Du học) | [`Study-Abroad/`](Study-Abroad/) | **Present Perfect** (have/has + V3) | ✅ Đã tạo |
+
+> **🎯 Trọng tâm Study Abroad:**
+> - **Vocabulary:** Du học — lý do/lợi ích (✅) & khó khăn/thử thách (❌), 10 cụm lõi
+> - **Grammar:** Present Perfect — kể kinh nghiệm, việc đã làm (ever/never/just/already/yet, for/since)
+> - **Theme:** Should you study abroad? Benefits, challenges & your own experience
+> - **Kỹ năng đích:** 🗣️ Hội thoại · ✍️ Viết luận · 🎤 Thuyết trình 2 phút
+> - **Phạm vi:** đủ **6 file lõi** (Từ vựng → Mẫu câu → Hội thoại → Ngữ pháp → Bài tập → Luyện nói) + **Bài luận mẫu** + **Thuyết trình 2 phút**.
+
+---
+
 ## 🏆 Tài liệu Ôn tập & Kiểm tra (Review & Exam)
 
 Khi kết thúc Topic 03, bạn sẽ thực hiện **Progress Test 1** bao quát cả 3 chủ điểm đầu tiên. Hãy sử dụng bộ tài liệu ôn tập cấp tốc tại đây:
