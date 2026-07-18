@@ -48,7 +48,7 @@ Mục tiêu: **nói, viết và hội thoại** về du học, thành thạo **t
 | 4 | [`04-Ngu-phap.md`](04-Ngu-phap.md) | **Present Perfect** — công thức, V3, 4 cách dùng, for/since, ever/never/just/already/yet, so sánh Past Simple + lỗi sai |
 | 5 | [`05-Bai-tap.md`](05-Bai-tap.md) | Bài tập (từ vựng, Present Perfect, sửa lỗi, viết câu) + **đáp án chi tiết** |
 | 6 | [`06-Luyen-noi.md`](06-Luyen-noi.md) | 12 câu hỏi luyện nói + khung trả lời + **bài nói mẫu 1 phút** |
-| 7 | [`07-Bai-luan-mau.md`](07-Bai-luan-mau.md) | **3 bài luận mẫu** (nêu ý kiến · ưu-nhược · kể trải nghiệm) + khung viết + mẹo B1 |
+| 7 | [`07-Bai-luan-mau.md`](07-Bai-luan-mau.md) | **3 bài luận mẫu DÀI ~4–5 phút** (nêu ý kiến · ưu-nhược · kể trải nghiệm) — **mỗi nhận định tích cực/tiêu cực đều có ví dụ cụ thể** + khung viết bài dài + mẹo B1 |
 | 8 | [`08-Thuyet-trinh-mau-2-phut.md`](08-Thuyet-trinh-mau-2-phut.md) | **3 bài thuyết trình 2 phút** + **cụm mô tả biểu đồ/số liệu** + khung điền + mẹo trình bày + checklist |
 | 9 | [`09-Huong-dan-tranh-luan.md`](09-Huong-dan-tranh-luan.md) | ⚖️ **Hướng dẫn tranh luận (debate)**: kho cụm lập luận theo chức năng + cấu trúc P‑E‑E‑L + bảng ý 2 phía + khung + **2 bài mẫu FOR/AGAINST** + mẹo & checklist |
 
