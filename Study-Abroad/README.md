@@ -14,7 +14,7 @@ Mục tiêu: **nói, viết và hội thoại** về du học, thành thạo **t
 | **Vocabulary** | Du học — **10 cụm lõi** + lý do/lợi ích (✅) và khó khăn/thử thách (❌) |
 | **Grammar** | **Present Perfect** — *have/has + V3* (kinh nghiệm, việc đã xong, for/since, ever/never/just/already/yet) |
 | **Theme** | Should you study abroad? Benefits, challenges & your own experience |
-| **Kỹ năng đích** | 🗣️ Hội thoại · ✍️ Viết luận · 🎤 Thuyết trình 2 phút · ⚖️ Tranh luận (debate) |
+| **Kỹ năng đích** | 🗣️ Hội thoại · ✍️ Viết luận · 🎤 Thuyết trình ~4 phút · ⚖️ Tranh luận (debate) |
 
 ---
 
@@ -49,8 +49,8 @@ Mục tiêu: **nói, viết và hội thoại** về du học, thành thạo **t
 | 5 | [`05-Bai-tap.md`](05-Bai-tap.md) | Bài tập (từ vựng, Present Perfect, sửa lỗi, viết câu) + **đáp án chi tiết** |
 | 6 | [`06-Luyen-noi.md`](06-Luyen-noi.md) | 12 câu hỏi luyện nói + khung trả lời + **bài nói mẫu 1 phút** |
 | 7 | [`07-Bai-luan-mau.md`](07-Bai-luan-mau.md) | **3 bài luận mẫu DÀI ~4–5 phút** (nêu ý kiến · ưu-nhược · kể trải nghiệm) — **mỗi nhận định tích cực/tiêu cực đều có ví dụ cụ thể** + khung viết bài dài + mẹo B1 |
-| 8 | [`08-Thuyet-trinh-mau-2-phut.md`](08-Thuyet-trinh-mau-2-phut.md) | **3 bài thuyết trình 2 phút** + **cụm mô tả biểu đồ/số liệu** + khung điền + mẹo trình bày + checklist |
-| 9 | [`09-Huong-dan-tranh-luan.md`](09-Huong-dan-tranh-luan.md) | ⚖️ **Hướng dẫn tranh luận (debate)**: kho cụm lập luận theo chức năng + cấu trúc P‑E‑E‑L + bảng ý 2 phía + khung + **2 bài mẫu FOR/AGAINST** + mẹo & checklist |
+| 8 | [`08-Thuyet-trinh-mau-2-phut.md`](08-Thuyet-trinh-mau-2-phut.md) | **3 bài thuyết trình DÀI ~4 phút** — **mỗi nhận định tích cực/tiêu cực có ví dụ cụ thể** + **cụm mô tả biểu đồ/số liệu** + khung điền + mẹo trình bày + checklist |
+| 9 | [`09-Huong-dan-tranh-luan.md`](09-Huong-dan-tranh-luan.md) | ⚖️ **Hướng dẫn tranh luận (debate)**: kho cụm lập luận theo chức năng + cấu trúc P‑E‑E‑L + bảng ý 2 phía + khung + **2 bài mẫu FOR/AGAINST DÀI ~4 phút (mỗi luận điểm có ví dụ)** + mẹo & checklist |
 
 ---
 
@@ -64,7 +64,7 @@ Mục tiêu: **nói, viết và hội thoại** về du học, thành thạo **t
 | 4 | File 04 – Ngữ pháp Present Perfect |
 | 5 | File 05 – Làm bài tập, tự chấm |
 | 6 | File 06 – Luyện nói thành tiếng |
-| 7 | File 07 & 08 – Viết luận + thuyết trình 2 phút |
+| 7 | File 07, 08 & 09 – Viết luận + thuyết trình ~4 phút + tranh luận |
 
 ---
 

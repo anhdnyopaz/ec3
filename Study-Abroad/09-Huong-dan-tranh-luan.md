@@ -151,35 +151,47 @@ Thank you.
 
 ---
 
-## 6️⃣ BÀI MẪU – Đội ỦNG HỘ (FOR, ≈175 từ, B1)
+## 6️⃣ BÀI MẪU – Đội ỦNG HỘ (FOR, ≈510 từ, ~4 phút) — mỗi luận điểm 1 ví dụ
 
-> Hello everyone. Our team **is in favour of** the idea that _studying abroad_ is better than studying at home.
+> Hello everyone. Our team **is in favour of** the idea that _studying abroad_ is better than studying at home. We have three main arguments, and we will give a real example for each.
 
-> **Firstly**, _studying abroad_ helps you _improve your language skills_ much faster. **This is because** you use English every day in real life. **For example**, my cousin **has studied** in Australia for one year, and she **has become** almost fluent. **So** the language progress is clear.
+> **Firstly**, _studying abroad_ helps you _improve your language skills_ much faster. **This is because** you use the language every day in real life, not only in class.
+> 🟢 **For example**, my cousin Lan **has studied** in Sydney for one year. She went there with only basic English, but because she practised every day, she **has become** almost fluent and now works part-time in an English office. **So** the language progress is very clear.
 
-> **Secondly**, living overseas helps you _gain independence_ and _broaden your horizons_. **According to** many students, they **have learned** to cook, budget, and solve problems alone. **As a result**, they grow up faster.
+> **Secondly**, living overseas helps you _gain independence_ and _broaden your horizons_. **This is because** you must take care of yourself far from your parents.
+> 🟢 **For instance**, a friend of mine **has learned** to cook, _manage his budget_, and solve problems alone after moving to Canada. **According to** him, he **has grown up** more in one year abroad than in five years at home. **As a result**, students become _self-reliant_ adults.
 
-> **The other team may say** that _studying abroad_ is expensive. **That may be true; however,** many students **have won** _scholarships_, and the _better career opportunities_ later are worth the cost. **It is not always the case that** it is too expensive.
+> **Thirdly**, a foreign _degree_ gives you _better career opportunities_. **This is because** employers value international experience.
+> 🟢 **For example**, big companies like Google and Samsung **have hired** many graduates from foreign universities for higher salaries. **Therefore**, _studying abroad_ can change your whole future.
 
-> **In conclusion**, ***although*** _studying abroad_ has some challenges, the benefits are much bigger. **For these reasons, we firmly believe that** it is the better choice. Thank you.
+> **Now, the other team may say** that _studying abroad_ is too expensive. **That may be true; however,** many students **have won** full _scholarships_ that cover everything.
+> 🔴➡️🟢 **For instance**, my classmate **has received** a scholarship worth 40,000 dollars, so his family paid almost nothing. **It is not always the case that** _studying abroad_ ruins your family's money.
 
-> **🔑 Cụm lập luận:** in favour of, Firstly/Secondly, This is because, For example, According to, As a result, The other team may say, however, In conclusion, For these reasons. **Present Perfect:** has studied, has become, have learned, have won.
+> **In conclusion**, ***although*** _studying abroad_ has some challenges such as cost and _homesickness_, the benefits — better language, independence, and career — are much bigger. **For these reasons, we firmly believe that** _studying abroad_ is the better choice. Thank you.
+
+> **🔑 Cụm lập luận:** in favour of, Firstly/Secondly/Thirdly, This is because, For example/For instance, According to, As a result, Therefore, The other team may say, however, It is not always the case, In conclusion, For these reasons. **Present Perfect:** has studied, has become, has learned, has grown up, have hired, have won, has received. **Ví dụ:** 3 🟢 (luận điểm) + 1 ví dụ phản bác.
 
 ---
 
-## 7️⃣ BÀI MẪU – Đội PHẢN ĐỐI (AGAINST, ≈175 từ, B1)
+## 7️⃣ BÀI MẪU – Đội PHẢN ĐỐI (AGAINST, ≈510 từ, ~4 phút) — mỗi luận điểm 1 ví dụ
 
-> Hello everyone. Our team **is against** the idea that _studying abroad_ is better than studying at home.
+> Hello everyone. Our team **is against** the idea that _studying abroad_ is better than studying at home. We respect the other side, but we have three strong arguments, each with a real example.
 
-> **Firstly**, _studying abroad_ can cause serious _financial pressure_. **This is because** the _tuition fees_ and _cost of living_ are very high. **For example**, some families **have spent** all their savings to send one child overseas. **Therefore**, it is not fair for everyone.
+> **Firstly**, _studying abroad_ causes serious _financial pressure_. **This is because** the _tuition fees_ and _cost of living_ are extremely high.
+> 🔴 **For example**, one year at an American university can cost more than 30,000 dollars, plus rent and flights. Some families **have had to** sell their land or take a big loan for just one child. **Therefore**, it is simply not fair for most students.
 
-> **Secondly**, students often _feel homesick_ and _lonely_. **This is because** they live far from their families and face a _language barrier_ and _culture shock_. **So** their mental health can suffer.
+> **Secondly**, many students _feel homesick_ and _lonely_, and their mental health suffers. **This is because** they live far from family and face a _language barrier_ and _culture shock_.
+> 🔴 **For instance**, during the first Tet holiday abroad, a student may sit alone in a cold room while the family celebrates at home. Some students **have felt** so sad that they wanted to quit and fly back. **As a result**, their studies get worse, not better.
 
-> **The other team says** that _studying abroad_ gives a better education. **I see their point, but** many universities at home also offer _high-quality education_. **Even if** you stay in your country, you **can** still learn online from foreign teachers.
+> **Thirdly**, you do not need to leave home to get a good education today. **This is because** technology **has changed** everything.
+> 🔴➡️🟢 **For example**, my sister **has taken** free online courses from Harvard and famous foreign teachers, while still living at home and saving money. **So** the same knowledge is available without the huge cost.
 
-> **To sum up**, ***although*** _studying abroad_ has some benefits, the cost and stress are too big for most students. **That is why we are against** this idea. Thank you.
+> **Now, the other team says** that _studying abroad_ gives _better career opportunities_. **I see their point, but** many top companies in Vietnam **have hired** local graduates too.
+> 🔴 **For instance**, my neighbour studied at a university at home and now works for a big international bank. **Even if** _studying abroad_ looks good on paper, hard work matters more than the country you studied in.
 
-> **🔑 Cụm lập luận:** is against, Firstly/Secondly, This is because, For example, Therefore, The other team says, I see their point but, Even if, To sum up, That is why we are against. **Present Perfect:** have spent.
+> **To sum up**, ***although*** _studying abroad_ has some benefits, the high cost, the _homesickness_, and the stress are too big for most families — especially when good education is now available at home. **That is why we are against** this idea. Thank you.
+
+> **🔑 Cụm lập luận:** is against, Firstly/Secondly/Thirdly, This is because, For example/For instance, Therefore, As a result, The other team says, I see their point but, Even if, To sum up, That is why we are against. **Present Perfect:** have had to, have felt, has changed, has taken, have hired. **Ví dụ:** 3 🔴 (luận điểm) + 1 ví dụ phản bác.
 
 ---
 
@@ -206,4 +218,4 @@ Thank you.
 
 ---
 
-➡️ Ôn từ vựng du học: **[`01-Tu-vung.md`](01-Tu-vung.md)** · Ôn ngữ pháp Present Perfect: **[`04-Ngu-phap.md`](04-Ngu-phap.md)** · Xem bài luận 2 mặt: **[`07-Bai-luan-mau.md`](07-Bai-luan-mau.md)**. Bạn có thể lấy 2 bài mẫu FOR/AGAINST trên làm nội dung cho **[thuyết trình 2 phút (File 8)](08-Thuyet-trinh-mau-2-phut.md)**. Chúc bạn tranh luận thật sắc bén! 🎤⚖️🎓
+➡️ Ôn từ vựng du học: **[`01-Tu-vung.md`](01-Tu-vung.md)** · Ôn ngữ pháp Present Perfect: **[`04-Ngu-phap.md`](04-Ngu-phap.md)** · Xem bài luận 2 mặt: **[`07-Bai-luan-mau.md`](07-Bai-luan-mau.md)**. Bạn có thể lấy 2 bài mẫu FOR/AGAINST trên làm nội dung cho **[thuyết trình ~4 phút (File 8)](08-Thuyet-trinh-mau-2-phut.md)**. Chúc bạn tranh luận thật sắc bén! 🎤⚖️🎓
