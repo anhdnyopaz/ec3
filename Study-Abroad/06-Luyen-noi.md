@@ -100,4 +100,4 @@ Thank you for listening!
 - [ ] Có **1 câu lý do** (because / to / so that).
 - [ ] Nói được **≈ 1 phút** không nhìn giấy.
 
-➡️ Nói tốt rồi? Nâng lên viết luận ở **[`07-Bai-luan-mau.md`](07-Bai-luan-mau.md)** và thuyết trình 2 phút ở **[`08-Thuyet-trinh-mau-2-phut.md`](08-Thuyet-trinh-mau-2-phut.md)**.
+➡️ Nói tốt rồi? Nâng lên viết luận ở **[`07-Bai-luan-mau.md`](07-Bai-luan-mau.md)** và thuyết trình ~4 phút ở **[`08-Thuyet-trinh-mau-2-phut.md`](08-Thuyet-trinh-mau-2-phut.md)**.
